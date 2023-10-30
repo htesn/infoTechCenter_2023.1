@@ -15,5 +15,4 @@ def gasLevelGauge():
 def gasLevelAlret():
     milesToGasStationsLow = round(random.uniform(1,25),1)
     milesToGasStationsQaurterTank = round(random.uniform(25.1,50),1)
-    print("Low=",milesToGasStationsLow)
-    print("Qaurter Tank =",milesToGasStationsQaurterTank)
+   
