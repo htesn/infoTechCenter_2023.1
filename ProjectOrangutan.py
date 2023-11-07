@@ -75,11 +75,9 @@ gasLevelAlert()
 
 print("\n**********************************************************************\n")
 
-print("Weather Branch\n")
+print("Checking Weather Branch\n")
 
-#Import Libraries here
-import random
-from time import sleep
+
 
 #Create a function randomly choosing the weather from a list
 def weather():
